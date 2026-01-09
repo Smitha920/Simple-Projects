@@ -42,7 +42,29 @@ h1, h2, h3, h4, p {
 }
 
 .gift-img {
+    margin: 0 auto;
+    background-image: url(images/gift-cover.png);
+    background-size: cover ;
     width: 400px;
+    height: 400px;
     border: 6px solid white;
     border-radius: 6px;
+}
+#gift-img-cheers {
+    height: 200px; 
+}
+#gift-img-happy:hover {
+    background-image: url(images/happy.gif);
+}
+#gift-img-hot:hover {
+    background-image: url(images/hot.gif);
+}
+#gift-img-genius:hover {
+    background-image: url(images/genius.gif)
+}
+#gift-img-badass:hover {
+    background-image: url(images/badass.gif);
+}
+#gift-img-cheers:hover {
+    background-image: url(images/cheers.gif)
 }
