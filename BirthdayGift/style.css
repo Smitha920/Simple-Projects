@@ -68,3 +68,11 @@ h1, h2, h3, h4, p {
 #gift-img-cheers:hover {
     background-image: url(images/cheers.gif)
 }
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 50px auto 20px;
+}
+a {
+    color: white;
+}
