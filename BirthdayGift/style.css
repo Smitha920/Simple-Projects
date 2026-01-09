@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: "Happy Monkey", system-ui;
-    background: #a2d2ff;
+    background: linear-gradient(lightskyblue, pink);
     color: #ffff;
 }
 
