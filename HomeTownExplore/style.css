@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: linear-gradient(white, rgb(90, 100, 209));
+}
+#hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(images/mysuru-palace.png);
+    background-size: cover;
+    padding: 100px;
+    margin: 4px;
+    border-radius: 6px;
+    color: white;
+}
+#place-title {
+    font-weight: bold;
+    width: 120px;
+    background-color: 534A08;
+    margin: 0 auto;
+}
+#place-tag {
+    font-weight:bold;
+    width: 300px;
+    background-color: 442C00;
+    margin: 20px auto;
+    padding: 2px;
+}
+#title {
+    margin: 80px auto 10px auto;
+}
+.iconic-places {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+}
+#activities {
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.activities-section {
+    margin: 20px;
+    padding: 50px 0;
+    text-align: center;
+}
+.place-description {
+    font-weight: normal;
+    padding: 4px;
+}
+#guider-info {
+    display: flex;
+    margin: 20px 50px;
+    justify-content: space-around;
+    background-color: B4B7CD;
+    border-radius: 8px;
+    font-weight: lighter;
+}
+#guider-img {
+    width: 100px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
