@@ -15,9 +15,14 @@ h1 {
 button {
     background-color: goldenrod;
     border: none;
-    padding: 5px 40px;
+    width: 200px;
+    padding: 5px 0;
+    border-radius: 3px;
     font-weight: bold;
     font-size: 20px;
-    color: #0437048a;
+    color: #016f32;
+}
+button:hover {
+    width: 205px;
 }
 
